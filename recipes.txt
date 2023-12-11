@@ -1,0 +1,33 @@
+# International Recipes
+
+Explore a variety of delicious international recipes from different cuisines. Whether you're in the mood for a hearty meal, a flavorful snack, or a delightful dessert, this collection has you covered!
+
+- Corba
+- Sushi
+- Burek
+- Bistek
+- Tamiya
+- Kumpir
+- Wontons
+- Lasagne
+- Kafteji
+- Big Mac
+- Poutine
+- Koshari
+- Dal Fry
+- Timbits
+- Pancakes
+- Kapsalon
+- Fish Pie
+- Flamiche
+- Shawarma
+- Kedgeree
+- Stamppot
+- Moussaka
+- Shakshuka
+- Sugar Pie
+- Ribollita
+- Chicken Tikka Masala
+- Chicken Tikka
+
+
